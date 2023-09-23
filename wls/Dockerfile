@@ -1,1 +1,1 @@
-FROM container-registry.oracle.com/middleware/weblogic:12.2.1.4
+FROM ghcr.io/oracle/weblogic-kubernetes-operator:4.1.2
