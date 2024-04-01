@@ -1,0 +1,1 @@
+FROM docker.io/arangodb/arangodb:3.11.4
